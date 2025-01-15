@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AlQalamNastaleeq.ttf",
+      "sha1": "2489bc55efd3112e44623ad0dd92d4b405a24b70"
+    },
+    {
+      "path": "assets/fonts/AlQalamQuran.ttf",
+      "sha1": "9de71861cce5b001e776402d8ec315cc5c04b398"
+    }
+  ]
+}
