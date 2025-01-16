@@ -1,12 +1,12 @@
-import {StyleSheet, View} from 'react-native';
+import {StyleSheet, SafeAreaView} from 'react-native';
 import {theme} from '../theme';
 import Supplications from '../screens/Supplications';
 
 const Navigation = () => {
   return (
-    <View style={styles.container}>
+    <SafeAreaView style={styles.container}>
       <Supplications />
-    </View>
+    </SafeAreaView>
   );
 };
 
