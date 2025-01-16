@@ -4,20 +4,17 @@
     "content_ar": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ [6] صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ [7]",
     "pron_en": "Ihdinas’siraat’al Mustaqeem Si’raat’al Lad’eena An-A’mta A’layhim Ghayril Maghz’’oobi A’layhim Wa Laz’’ Z’’aaalleen",
     "trans_en": "Keep us on the right path. The path of those upon whom Thou hast bestowed favors. Not (the path) of those upon whom Thy wrath is brought down, nor of those who go astray.",
-    "trans_ur": "",
+    "trans_ur": "ہمیں سیدھے راستے پر چلا۔ ان لوگوں کا راستہ جن پر تو نے احسان کیا نہ کہ ان کا راستہ جن پر غضب ہوا اور نہ بہکے ہوؤں کا۔",
     "verse_no": "6-7",
     "surah_name_ar": "الفاتحة",
     "surah_name_en": "Al-Faatihah"
   },
-
-
-
   {
     "id": 2,
     "content_ar": "رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
     "pron_en": "Rabbana Taqabbal Minna Innaka Antas Samee-u’l A’leem",
     "trans_en": "O our Lord! Accept from us, indeed You are the All-Hearing, the All-Knowing.",
-    "trans_ur": "اے ہمارے رب! ہم سے قبول فرما ،بیشک تو ہی سننے والا جاننے والا ہے۔",
+    "trans_ur": "اے ہمارے رب! ہم سے قبول فرما، بیشک تو ہی سننے والا جاننے والا ہے۔",
     "verse_no": "127",
     "surah_name_ar": "البقرة",
     "surah_name_en": "Al-Baqarah"
@@ -27,7 +24,7 @@
     "content_ar": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ",
     "pron_en": "Wa Id’aa Sa-alaka I’baadee A’nnee Fa Innee Qareeb Ujeebu Da’-Watad Daa-i’ Id’aa Da-a’ani Fal-Yastajeeboo Lee Wal Yoo-Minoo Bee La-A’llahum Yarshudoon",
     "trans_en": "And when My servants ask you concerning Me, then surely I am very near; I answer the prayer of the suppliant when he calls on Me, so they should answer My call and believe in Me that they may walk in the right way.",
-    "trans_ur": "اور اے حبیب! جب تم سے میرے بندے میرے بارے میں سوال کریں تو بیشک میں نزدیک ہوں ، میں دعا کرنے والے کی دعا قبول کرتا ہوں جب وہ مجھ سے دعا کرے تو انہیں چاہئے کہ میرا حکم مانیں اور مجھ پر ایمان لائیں تاکہ ہدایت پائیں۔",
+    "trans_ur": "اور اے حبیب! جب تم سے میرے بندے میرے بارے میں سوال کریں تو بیشک میں نزدیک ہوں، میں دعا کرنے والے کی دعا قبول کرتا ہوں جب وہ مجھ سے دعا کرے تو انہیں چاہئے کہ میرا حکم مانیں اور مجھ پر ایمان لائیں تاکہ ہدایت پائیں۔",
     "verse_no": "186",
     "surah_name_ar": "البقرة",
     "surah_name_en": "Al-Baqarah"
@@ -37,7 +34,7 @@
     "content_ar": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
     "pron_en": "Rabbanaaa Aatinaa Fiddunyaa H’asanata Wa Fil Aakhirati H’asanata Wa Qinaa A’d’aaban Naar",
     "trans_en": "Our Lord, give us good in this world and good in the Hereafter, and save us from the torment of Fire.",
-    "trans_ur": "اے ہمارے رب!ہمیں دنیا میں بھلائی عطا فرما اور ہمیں آخرت میں (بھی) بھلائی عطا فرما اور ہمیں دوزخ کے عذاب سے بچا۔",
+    "trans_ur": "اے ہمارے رب! ہمیں دنیا میں بھلائی عطا فرما اور ہمیں آخرت میں (بھی) بھلائی عطا فرما اور ہمیں دوزخ کے عذاب سے بچا۔",
     "verse_no": "201",
     "surah_name_ar": "البقرة",
     "surah_name_en": "Al-Baqarah"
@@ -57,7 +54,7 @@
     "content_ar": "رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
     "pron_en": "Rabbanaa Laa Too-Akhid’naaa In-Naseenaa Aw Akht’aanaa Rabbanaa wa Laa Tah’mil A’laynaaa Is’ran Kamaa Ha’maltahoo A’lal Lad’eena min Qablinaa Rabbanaa wa Laa Tuh’ammilnaa Maa Laa T’aaqata Lanaa Bih Wa’-Fu A’nnaa Waghfirlanaa Warh’amnaa Anta Mawlaanaa Fans’urnaa A’lal Qawmil Kaafireen",
     "trans_en": "O our Lord! Do not seize us if we forget or err, O our Lord! Do not place upon us a heavy burden as you placed upon our predecessors, O our Lord! Do not place upon us a burden that we cannot bear, and pardon us, and forgive us, and have mercy on us; You are our Master, so help us against the disbelieving people.",
-    "trans_ur": "اے ہمارے رب! اگر ہم بھولیں یا خطا کریں تو ہماری گرفت نہ فرما ،اے ہمارے رب! اور ہم پر بھاری بوجھ نہ رکھ جیسا تو نے ہم سے پہلے لوگوں پر رکھا تھا، اے ہمارے رب!اور ہم پر وہ بوجھ نہ ڈال جس کی ہمیں طاقت نہیں اور ہمیں معاف فرمادے اور ہمیں بخش دے اور ہم پر مہربانی فرما، تو ہمارا مالک ہے پس کافر قوم کے مقابلے میں ہماری مدد فرما۔",
+    "trans_ur": "اے ہمارے رب! اگر ہم بھولیں یا خطا کریں تو ہماری گرفت نہ فرما، اے ہمارے رب! اور ہم پر بھاری بوجھ نہ رکھ جیسا تو نے ہم سے پہلے لوگوں پر رکھا تھا، اے ہمارے رب! اور ہم پر وہ بوجھ نہ ڈال جس کی ہمیں طاقت نہیں اور ہمیں معاف فرمادے اور ہمیں بخش دے اور ہم پر مہربانی فرما، تو ہمارا مالک ہے پس کافر قوم کے مقابلے میں ہماری مدد فرما۔",
     "verse_no": "286",
     "surah_name_ar": "البقرة",
     "surah_name_en": "Al-Baqarah"
@@ -67,27 +64,21 @@
     "content_ar": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً ۚ إِنَّكَ أَنْتَ الْوَهَّابُ",
     "pron_en": "Rabbanaa Laa Tuzigh Quloobanaa Ba’-Da Id’hadaytanaa Wa Hab Lanaa Mil Ladunka Rah’mah Innaka Antal Wahaab",
     "trans_en": "O our Lord! Do not cause our hearts to deviate after guiding us, and endow us with mercy from Your Court, indeed, You are the Great-Endower.",
-    "trans_ur": "اے ہمارے رب تو نے ہمیں ہدایت عطا فرمائی ہے ،اس کے بعد ہمارے دلوں کو ٹیڑھا نہ کر اور ہمیں اپنے پاس سے رحمت عطا فرما، بیشک تو بڑاعطا فرمانے والاہے۔",
+    "trans_ur": "اے ہمارے رب! تو نے ہمیں ہدایت عطا فرمائی ہے، اس کے بعد ہمارے دلوں کو ٹیڑھا نہ کر اور ہمیں اپنے پاس سے رحمت عطا فرما، بیشک تو بڑاعطا فرمانے والاہے۔",
     "verse_no": "8",
     "surah_name_ar": "آل عمران",
     "surah_name_en": "Aal Imraan"
   },
-
-
-
   {
     "id": 8,
     "content_ar": "اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ وَتَنْزِعُ الْمُلْكَ مِمَّنْ تَشَاءُ وَتُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ مَنْ تَشَاءُ ۖ بِيَدِكَ الْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ [26] تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ ۖ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ ۖ وَتَرْزُقُ مَنْ تَشَاءُ بِغَيْرِ حِسَابٍ [27]",
     "pron_en": "Allaahumma Maalikal Mulki Tu’-til Mulka Man Tashaa-u wa Tanzi-u’l Mulka Mimman Tashaa wa Tu-i’zzu Man Tashaa-u wa Tud’illu Man Tashaa Biyadikal Khayr Innaka A’laa Kulli Shay’in Qadeer Toolijul Layla Fin Nahaari wa Toolijun Nahaara Fil Layl wa Tukhrijul Mayyita Minal H’ayy wa Tarzuqu Man Tashaa-u Bighayri H’isaab",
     "trans_en": "O Allah, Master of the Kingdom! Thou givest the kingdom to whomsoever Thou pleasest and takest away the kingdom from whomsoever Thou pleasest, and Thou exaltest whom Thou pleasest and abasest whom Thou pleasest in Thine hand is the good; surety, Thou hast power over all things. Thou makest the night to pass into the day and Thou makest the day to pass into the night, and Thou bringest forth the living from the dead and Thou bringest forth the dead from the living, and Thou givest sustenance to whom Thou pleasest without measure.",
-    "trans_ur": "",
+    "trans_ur": " اے اللہ! مُلک کے مالک! تو جسے چاہتاہے سلطنت عطا فرماتا ہے اور جس سے چاہتا ہے چھین لیتا ہے اور توجسے چاہتا ہے عزت دیتا ہے اور جسے چاہتا ہے ذلت دیتا ہے ،تمام بھلائی تیرے ہی ہاتھ میں ہے، بیشک تو ہر شے پر قدرت رکھنے والاہے۔  تو رات کا کچھ حصہ دن میں داخل کردیتا ہے اور دن کا کچھ حصہ رات میں داخل کردیتا ہے اور تو مردہ سے زندہ کونکالتا ہے اور زندہ سے مردہ کو نکالتا ہے اور جسے چاہتا ہے بے شمار رزق عطا فرماتا ہے۔",
     "verse_no": "26-27",
     "surah_name_ar": "آل عمران",
     "surah_name_en": "Aal Imraan"
   },
-
-
-
   {
     "id": 9,
     "content_ar": "رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ الدُّعَاءِ",
@@ -103,7 +94,7 @@
     "content_ar": "رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
     "pron_en": "Rabbanaghfir lanaa d’unoobanaa wa israafanaa fee amrinaa wa thabbit aqdaamanaa wan s’urnaa a’lal qawmil kaafireen",
     "trans_en": "O our Lord, forgive us our sins and our excesses in our affairs, and set our foothold firm, and help us against the disbelieving people.",
-    "trans_ur": "اے ہمارے رب ! ہمارے گناہوں کو اور ہمارے معاملے میں جو ہم سے زیادتیاں ہوئیں انہیں بخش دے اور ہمیں ثابت قدمی عطا فرما اور کافر قوم کے مقابلے میں ہماری مدد فرما۔",
+    "trans_ur": "اے ہمارے رب! ہمارے گناہوں کو اور ہمارے معاملے میں جو ہم سے زیادتیاں ہوئیں انہیں بخش دے اور ہمیں ثابت قدمی عطا فرما اور کافر قوم کے مقابلے میں ہماری مدد فرما۔",
     "verse_no": "147",
     "surah_name_ar": "آل عمران",
     "surah_name_en": "Aal Imraan"
@@ -113,7 +104,7 @@
     "content_ar": "رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
     "pron_en": "Rabbanaa Maa Khalaqta Haad’aa Baat’ilaa Subh’aanaka Faqinaa A’d’aaban Naar",
     "trans_en": "O our Lord, You have not created (all) this in vain. Glory be to You. Save us then from the torment of the fire.",
-    "trans_ur": "اے ہمارے رب!تو نے یہ سب بیکار نہیں بنایا۔ تو پاک ہے، تو ہمیں دوزخ کے عذاب سے بچالے۔",
+    "trans_ur": "اے ہمارے رب! تو نے یہ سب بیکار نہیں بنایا۔ تو پاک ہے، تو ہمیں دوزخ کے عذاب سے بچالے۔",
     "verse_no": "191",
     "surah_name_ar": "آل عمران",
     "surah_name_en": "Aal Imraan"
@@ -123,7 +114,7 @@
     "content_ar": "رَبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ",
     "pron_en": "Rabbanaa Innanaa Sami’-Naa Munaadiyay Yunaadee Lil – Eemaani An Aaminoo Birabbikum Fa- Aamannaa Rabbanaa Faghfir Lanaa D’unoobanaa Wa Kaffir A’nnaaa Sayyi- Aatinaa Wa Tawaffanaa Ma-A’l Abraaar",
     "trans_en": "O our Lord, we have indeed heard the voice of a preacher (messenger) calling (us) to faith: “Believe in your Lord.” So we believed. Our Lord, forgive us then our sins, and remove from us our evil deeds, and make us die with the virtuous.",
-    "trans_ur": "اے ہمارے رب ! بیشک ہم نے ایک ندا دینے والے کو ایمان کی ندا (یوں ) دیتے ہوئے سنا کہ اپنے رب پر ایمان لاؤ تو ہم ایمان لے آئے پس اے ہمارے رب ! تو ہمارے گنا ہ بخش دے اور ہم سے ہماری برائیاں مٹادے اور ہمیں نیک لوگوں کے گروہ میں موت عطا فرما۔",
+    "trans_ur": "اے ہمارے رب! بیشک ہم نے ایک ندا دینے والے کو ایمان کی ندا (یوں ) دیتے ہوئے سنا کہ اپنے رب پر ایمان لاؤ تو ہم ایمان لے آئے پس اے ہمارے رب! تو ہمارے گناہ بخش دے اور ہم سے ہماری برائیاں مٹادے اور ہمیں نیک لوگوں کے گروہ میں موت عطا فرما۔",
     "verse_no": "193",
     "surah_name_ar": "آل عمران",
     "surah_name_en": "Aal Imraan"
@@ -133,7 +124,7 @@
     "content_ar": "رَبَّنَا وَآتِنَا مَا وَعَدْتَنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ",
     "pron_en": "Rabbanaa Wa Aatinaa Maa Wa-A’ttanaa A’laa Rusulika Wa Laa Tukhzinaa Yawal Qiyaamah Innak Laa Tukhliful Mee’a’ad",
     "trans_en": "O our Lord, give us what You have promised us through Your messengers, and do not disgrace us on the day of resurrection. Verily, You do not break Your promise.",
-    "trans_ur": "اے ہمارے رب! اورہمیں وہ سب عطا فرما جس کا تو نے اپنے رسولوں کے ذریعے ہم سے وعدہ فرمایا ہے اور ہمیں قیامت کے دن رسوانہ کرنا۔بیشک تو وعدہ خلافی نہیں کرتا۔",
+    "trans_ur": "اے ہمارے رب! اورہمیں وہ سب عطا فرما جس کا تو نے اپنے رسولوں کے ذریعے ہم سے وعدہ فرمایا ہے اور ہمیں قیامت کے دن رسوانہ کرنا بیشک تو وعدہ خلافی نہیں کرتا۔",
     "verse_no": "194",
     "surah_name_ar": "آل عمران",
     "surah_name_en": "Aal Imraan"
@@ -143,7 +134,7 @@
     "content_ar": "لَئِنْ أَنْجَانَا مِنْ هَٰذِهِ لَنَكُونَنَّ مِنَ الشَّاكِرِينَ",
     "pron_en": "La-in Anjaanaa Min Haad’ihee Lanakoo- Nanna Minash Shakireen",
     "trans_en": "If He (our Lord) saves us from this, certainly we shall be of the thankful.",
-    "trans_ur": "اگر وہ (ہمارا رب) ہمیں اس سے نجات دیدے تو ہم ضرور شکر گزاروں میں سے ہوجائیں گے۔",
+    "trans_ur": "اگر وہ(ہمارا رب) ہمیں اس سے نجات دیدے تو ہم ضرور شکر گزاروں میں سے ہوجائیں گے۔",
     "verse_no": "63",
     "surah_name_ar": "الأنعام",
     "surah_name_en": "Al-An'aam"
@@ -193,7 +184,7 @@
     "content_ar": "وَاكْتُبْ لَنَا فِي هَٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ إِنَّا هُدْنَا إِلَيْكَ ۚ",
     "pron_en": "Waktub Lanaa Fee Haad’ihid Dunyaa H’asanataw Wa Fil Aakhirati Innaa Hudnaaa Ilayk",
     "trans_en": "And decree for us goodness in this world and in the Hereafter, indeed we have returned to You.",
-    "trans_ur": "اور ہمارے لیے اس دنیا میں اور آخرت میں بھلائی لکھ دے ، بیشک ہم نے تیری طرف رجوع کیا۔",
+    "trans_ur": "اور ہمارے لیے اس دنیا میں اور آخرت میں بھلائی لکھ دے، بیشک ہم نے تیری طرف رجوع کیا۔",
     "verse_no": "156",
     "surah_name_ar": "الأعراف",
     "surah_name_en": "Al-Aa'raaf"
@@ -203,27 +194,21 @@
     "content_ar": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
     "pron_en": "H’asbiyallaah Laaa Ilaaha Illaa – Huw A’layhi Tawakkaltu Wa Huwa Rabbul A’rshil A’z’eem",
     "trans_en": "Allah is Sufficient for me, there is no god but Him, I have placed my trust in Him alone and He is the Lord of the Supreme Throne.",
-    "trans_ur": "مجھے اللہ کافی ہے اس کے سواکوئی معبود نہیں ، میں نے اسی پر بھروسہ کیا اور وہ عرش عظیم کا مالک ہے۔",
+    "trans_ur": "مجھے اللہ کافی ہے اس کے سواکوئی معبود نہیں، میں نے اسی پر بھروسہ کیا اور وہ عرش عظیم کا مالک ہے۔",
     "verse_no": "129",
     "surah_name_ar": "التوبة",
     "surah_name_en": "At-Tawbah"
   },
-
-
-
   {
     "id": 21,
     "content_ar": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلْقَوْمِ الظَّالِمِينَ [85] وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ [86]",
     "pron_en": "Rabbana Laa Taj –A’lnaa Fitnatal Lil – Qawmiz’ Z’aalimeen Wa Najjinaa Birah’matika Minal Qawmil Kaafireen",
     "trans_en": "O our Lord, make us not a trial for the unjust people. And deliver us by Your mercy from the disbelieving people.",
-    "trans_ur": "",
+    "trans_ur": "اے ہمارے رب! ہمیں ظالم لوگوں کے لیے آزمائش نہ بنا۔ اور اپنی رحمت فرما کر ہمیں کافروں سے نجات دے۔",
     "verse_no": "85-86",
     "surah_name_ar": "يونس",
     "surah_name_en": "Yoonus"
   },
-
-
-
   {
     "id": 22,
     "content_ar": "رَبِّ إِنَّ ابْنِي مِنْ أَهْلِي وَإِنَّ وَعْدَكَ الْحَقُّ وَأَنْتَ أَحْكَمُ الْحَاكِمِينَ",
@@ -239,7 +224,7 @@
     "content_ar": "رَبِّ إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ ۖ وَإِلَّا تَغْفِرْ لِي وَتَرْحَمْنِي أَكُنْ مِنَ الْخَاسِرِينَ",
     "pron_en": "Rabbi Inneee A-o’od’u Bika An As-alaka Maa Laysa Lee Bihee I’lm Wa Illaa Taghfirlee Wa Tarh’amneee Akum Minal Khaasireen",
     "trans_en": "O Lord, verily I seek refuge with You, from asking You that of which I have no knowledge; and unless You forgive me and have mercy on me, I shall be of the losers.",
-    "trans_ur": " اے میرے رب ! میں تیری پناہ چاہتا ہوں کہ تجھ سے وہ چیز مانگوں جس کا مجھے علم نہیں اور اگر تو میری مغفرت نہ فرمائے اور مجھ پر رحم نہ فرمائے تو میں نقصان اٹھانے والوں میں سے ہوجاؤں گا۔",
+    "trans_ur": " اے میرے رب! میں تیری پناہ چاہتا ہوں کہ تجھ سے وہ چیز مانگوں جس کا مجھے علم نہیں اور اگر تو میری مغفرت نہ فرمائے اور مجھ پر رحم نہ فرمائے تو میں نقصان اٹھانے والوں میں سے ہوجاؤں گا۔",
     "verse_no": "47",
     "surah_name_ar": "هود",
     "surah_name_en": "Hoodh"
@@ -279,7 +264,7 @@
     "content_ar": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
     "pron_en": "Rabbanaghfir Lee Wa Liwaalidayya Wa Lil-Mu’mineena Yawma Yaqoomul H’isaab",
     "trans_en": "O Lord of ours! Forgive me and my parents and all Muslims on the Day when accountability will take place.",
-    "trans_ur": "اے ہمارے رب مجھے بخش دے اور میرے ماں باپ کو اور سب مسلمانوں کو جس دن حساب قائم ہوگا۔",
+    "trans_ur": "اے ہمارے رب! مجھے بخش دے اور میرے ماں باپ کو اور سب مسلمانوں کو جس دن حساب قائم ہوگا۔",
     "verse_no": "41",
     "surah_name_ar": "إبراهيم",
     "surah_name_en": "Ibraaheem"
@@ -299,7 +284,7 @@
     "content_ar": "رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا",
     "pron_en": "Rabbi Adkhilnee Mudkhala S’idqiw Wa Akhrijnee Mukhraja S’diqiw Waj-a’l Lee Mil Ladunkaa Sult’aanan Nas’eeraa",
     "trans_en": "O my Lord! Cause me to enter in an excellent manner and cause me to leave in an excellent manner, and create for me prevailing assistance from Your Court.",
-    "trans_ur": "اے میرے رب مجھے پسندیدہ طریقے سے داخل فرما اور مجھے پسندیدہ طریقے سے نکال دے اور میرے لئے اپنی طرف سے مددگار قوت بنادے۔",
+    "trans_ur": "اے میرے رب! مجھے پسندیدہ طریقے سے داخل فرما اور مجھے پسندیدہ طریقے سے نکال دے اور میرے لئے اپنی طرف سے مددگار قوت بنادے۔",
     "verse_no": "80",
     "surah_name_ar": "الإسراء",
     "surah_name_en": "Al-Israa"
@@ -309,7 +294,7 @@
     "content_ar": "رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
     "pron_en": "Rabbanaaa Aatina Mil Ladunka Rah’mataw Wa Hayyi Lanaa Min Amrinaa Rashadaa",
     "trans_en": "O our Lord! Grant us mercy from Your Court and provide for us a means of guidance in our matter.",
-    "trans_ur": "اے ہمارے رب ہمیں اپنے پاس سے رحمت دے اور ہمارے کام میں ہمارے لیے راہ یابی کے سامان کر۔",
+    "trans_ur": "اے ہمارے رب! ہمیں اپنے پاس سے رحمت دے اور ہمارے کام میں ہمارے لیے راہ یابی کے سامان کر۔",
     "verse_no": "10",
     "surah_name_ar": "الكهف",
     "surah_name_en": "Al-Kahf"
@@ -324,22 +309,16 @@
     "surah_name_ar": "مريم",
     "surah_name_en": "Maryam"
   },
-
-
-
   {
     "id": 32,
     "content_ar": "رَبِّ اشْرَحْ لِي صَدْرِي [25] وَيَسِّرْ لِي أَمْرِي [26] وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي [27] يَفْقَهُوا قَوْلِي [28]",
     "pron_en": "Rabbishrah’ Lee S’adree wa Yassir Leee Amree Wah’–Lul U’qdatam Mil Lisaanee Yafqahoo Qawlee",
     "trans_en": "O Lord, expand for me my breast, make my task easy for me. Loose the knot of my tongue, that they may understand my speech.",
-    "trans_ur": "",
+    "trans_ur": "اے میرے رب! میرے لیے میرا سینہ کھول دے۔ اور میرے لیے میرا کام آسان فرما دے۔ اور میری زبان کی گرہ کھول دے۔ تاکہ وہ میری بات سمجھیں۔",
     "verse_no": "25-28",
     "surah_name_ar": "طه",
     "surah_name_en": "Taa-Haa"
   },
-
-
-
   {
     "id": 33,
     "content_ar": "رَبِّ زِدْنِي عِلْمًا",
@@ -365,7 +344,7 @@
     "content_ar": "لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
     "pron_en": "Laa Ilaha Illaaa Anta Subh’aanaka Innee Kuntu Minaz” Z’aalimeen",
     "trans_en": "There is no god but You, You are Pure from every fault; indeed I have misjudged.",
-    "trans_ur": "تیرے سوا کوئی معبود نہیں تو ہرعیب سے پاک ہے ، بیشک مجھ سے بے جا ہوا۔",
+    "trans_ur": "تیرے سوا کوئی معبود نہیں تو ہرعیب سے پاک ہے، بیشک مجھ سے بے جا ہوا۔",
     "verse_no": "87",
     "surah_name_ar": "الأنبياء",
     "surah_name_en": "Al-Anbiyaa"
@@ -405,7 +384,7 @@
     "content_ar": "رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ",
     "pron_en": "Rabbi Anzilnee Munzalam Mubaarakaw Wa Anta Khayrul Munzileen",
     "trans_en": "O my Lord! Let me disembark at a blessed place, and You are the Best of those who bring to land.",
-    "trans_ur": "اے میرے رب !مجھے برکت والی جگہ اتار دے اور تو سب سے بہتر اتارنے والا ہے۔",
+    "trans_ur": "اے میرے رب! مجھے برکت والی جگہ اتار دے اور تو سب سے بہتر اتارنے والا ہے۔",
     "verse_no": "29",
     "surah_name_ar": "المؤمنون",
     "surah_name_en": "Al-Mu'minoon"
@@ -425,7 +404,7 @@
     "content_ar": "رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنْتَ خَيْرُ الرَّاحِمِينَ",
     "pron_en": "Rabbanaa Aamannaa Faghfir Lanaa Warh’amnaa Wa Anta Khayrur Raah’imeen",
     "trans_en": "O our Lord! We believed so forgive us, and have mercy on us, and You are the most Merciful of the merciful.",
-    "trans_ur": "اے ہمارے رب!ہم ایمان لائے تو ہمیں بخش دے اور ہم پر رحم فرما اور تو سب سے بہتر رحم کرنے والا ہے۔",
+    "trans_ur": "اے ہمارے رب! ہم ایمان لائے تو ہمیں بخش دے اور ہم پر رحم فرما اور تو سب سے بہتر رحم کرنے والا ہے۔",
     "verse_no": "109",
     "surah_name_ar": "المؤمنون",
     "surah_name_en": "Al-Mu'minoon"
@@ -445,7 +424,7 @@
     "content_ar": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا",
     "pron_en": "Rabbanas’rif ‘Nnaa A’d’aaba Jahannama Inna A’d’aabahaa Kaana Gharaama",
     "trans_en": "O our Lord! Avert the punishment of Hell (Jahannam) from us; indeed its punishment is a noose around the neck.",
-    "trans_ur": "اے ہمارے رب!ہم سے جہنم کا عذاب پھیر دے، بیشک اس کا عذاب گلے کا پھندا ہے۔ بیشک وہ بہت ہی بری ٹھہرنے اور قیام کرنے کی جگہ ہے۔",
+    "trans_ur": "اے ہمارے رب! ہم سے جہنم کا عذاب پھیر دے، بیشک اس کا عذاب گلے کا پھندا ہے۔ بیشک وہ بہت ہی بری ٹھہرنے اور قیام کرنے کی جگہ ہے۔",
     "verse_no": "65",
     "surah_name_ar": "الفرقان",
     "surah_name_en": "Al-Furqan"
@@ -460,23 +439,16 @@
     "surah_name_ar": "الفرقان",
     "surah_name_en": "Al-Furqan"
   },
-
-
-
   {
     "id": 45,
     "content_ar": "رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ [83] وَاجْعَلْ لِي لِسَانَ صِدْقٍ فِي الْآخِرِينَ [84] وَاجْعَلْنِي مِنْ وَرَثَةِ جَنَّةِ النَّعِيمِ [85] وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ [86] وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ [87] يَوْمَ لَا يَنْفَعُ مَالٌ وَلَا بَنُونَ [88] إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ [89]",
     "pron_en": "Rabbi Hab Lee H’ukma Wa Alh’iqnee Bis’-S’aalih’een Waj A’l Lee Lisaana S’idqin Fil Aakhireen Waj – A’lnee Miw Warathati Jannatin Na-E’em Waghfir Li-Abee Innahoo Kaana Minaz” Z”Aaalleen Wa Laa Tukhzinee Yawma Yub-A’thoon Yawma Laa Yanfa –U’maaluw Wa Laa Banoon Illaa Man Atallaaha Biqalbin Saleem",
     "trans_en": "My Lord! Grant me wisdom and join me with the righteous elite. And make me renowned within later generations. And make me among the inheritors of gardens of bounties. And forgive my father (uncle), indeed he is among the misguided. And do not humiliate me on the Day when people will be raised. The Day when neither wealth nor sons will be of benefit. Except he who comes to Allah with a sound heart.",
-    "trans_ur": "اے میرے رب !مجھے حکمت عطا کر اور مجھے ان سے ملادے جو تیرے خاص قرب کے لائق بندے ہیں۔",
+    "trans_ur": "اے میرے رب! مجھے حکمت عطا کر اور مجھے ان سے ملادے جو تیرے خاص قرب کے لائق بندے ہیں۔ اوربعدوالوں میں میری اچھی شہرت رکھ دے۔ اور مجھے ان میں سے کردے جو چین کے باغوں کے وارث ہیں۔ اور میرے باپ کو بخش دے بیشک وہ گمراہوں میں سے ہے۔ اور مجھے اس دن رسوا نہ کرنا جس دن سب اٹھائے جائیں گے۔ جس دن نہ مال کام آئے گا اور نہ بیٹے۔ مگر وہ جو اللہ کے حضور سلامت دل کے ساتھ حاضر ہوگا۔",
     "verse_no": "83-89",
     "surah_name_ar": "الشعراء",
     "surah_name_en": "Ash-Shu'araa'"
   },
-
-
-
-
   {
     "id": 46,
     "content_ar": "فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَنْ مَعِيَ مِنَ الْمُؤْمِنِينَ",
@@ -492,7 +464,7 @@
     "content_ar": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ",
     "pron_en": "Rabbi Awzi’–Nee An Ashkura Ni’-Matakal Latee An-A’mta A’layya Wa A’laa Waalidayya Wa An A’-Mala S’aalih’an – Tarz”aahu Wa Adkhilnee Bi-Rah’matika Fee I’baadikas’ S’aaliheen",
     "trans_en": "My Lord! Enable me to express gratitude for Your Favour which you bestowed upon me and upon my parents, and that I may perform the righteous deed which You are pleased with, and include me, with Your mercy, among your righteous elite.",
-    "trans_ur": " اے میرے رب!مجھے توفیق دے کہ میں تیرے اس احسان کا شکر اداکروں جو تو نے مجھ پر اور میرے ماں باپ پر کیا اور (مجھے توفیق دے) کہ میں وہ نیک کام کروں جس پر تو راضی ہو اور مجھے اپنی رحمت سے اپنے ان بندوں میں شامل کر جو تیرے خاص قرب کے لائق ہیں۔",
+    "trans_ur": " اے میرے رب! مجھے توفیق دے کہ میں تیرے اس احسان کا شکر اداکروں جو تو نے مجھ پر اور میرے ماں باپ پر کیا اور (مجھے توفیق دے) کہ میں وہ نیک کام کروں جس پر تو راضی ہو اور مجھے اپنی رحمت سے اپنے ان بندوں میں شامل کر جو تیرے خاص قرب کے لائق ہیں۔",
     "verse_no": "19",
     "surah_name_ar": "النمل",
     "surah_name_en": "An-Naml"
@@ -502,7 +474,7 @@
     "content_ar": "رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي",
     "pron_en": "Rabbi Innee Z’alamtu Nafsee Faghfirlee",
     "trans_en": "O my Lord! I have wronged myself so forgive me.",
-    "trans_ur": "اے میرے رب!میں نے اپنی جان پر زیادتی کی تو تومجھے بخش دے۔",
+    "trans_ur": "اے میرے رب! میں نے اپنی جان پر زیادتی کی تو تومجھے بخش دے۔",
     "verse_no": "16",
     "surah_name_ar": "القصص",
     "surah_name_en": "Al-Qasas"
@@ -522,7 +494,7 @@
     "content_ar": "رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
     "pron_en": "Rabbi Innee Limaaa Anzalta Ilayya Min Khayrin Faqeer",
     "trans_en": "O my Lord! I am in need of whatever good you may send down upon me.",
-    "trans_ur": "اے میرے رب!میں اس خیر (کھانے) کی طرف محتاج ہوں جو تو میرے لیے اتارے۔",
+    "trans_ur": "اے میرے رب! میں اس خیر (کھانے) کی طرف محتاج ہوں جو تو میرے لیے اتارے۔",
     "verse_no": "24",
     "surah_name_ar": "القصص",
     "surah_name_en": "Al-Qasas"
@@ -552,7 +524,7 @@
     "content_ar": "رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ",
     "pron_en": "Rabbanaa Wasi’ –Ta Kulla Shay-ir Rah’mataw Wa I’lman Fghfir Lil-Lad’eena Taaboo Wat-Taba-o’o Sabeelaka Waqihim A’d’aabal Jah’eem",
     "trans_en": "Dear Lord of ours! You encompass everything with Your mercy and knowledge, so forgive those who repent and adhere to Your way and save them from the punishment of Hell.",
-    "trans_ur": "اے ہمارے رب!تیری رحمت اور علم ہر شے سے وسیع ہے تو انہیں بخش دے جوتوبہ کریں اور تیرے راستے کی پیروی کریں اور انہیں دوزخ کے عذاب سے بچالے۔",
+    "trans_ur": "اے ہمارے رب! تیری رحمت اور علم ہر شے سے وسیع ہے تو انہیں بخش دے جوتوبہ کریں اور تیرے راستے کی پیروی کریں اور انہیں دوزخ کے عذاب سے بچالے۔",
     "verse_no": "7",
     "surah_name_ar": "غافر",
     "surah_name_en": "Ghaafir"
@@ -572,7 +544,7 @@
     "content_ar": "وَقِهِمُ السَّيِّئَاتِ ۚ وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ ۚ وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
     "pron_en": "Waqihimus Sayyi-Aat Wa Man Taqis Sayyi-Aati Yawma-Id’in Faqad Rah’imtah Wa D’aalika Huwal Fawzul A’z’eem",
     "trans_en": "(O Lord), keep them away from evil, and whomsoever You keep away from evil, on this day, and him indeed You have bestowed mercy, and that is a great achievement.",
-    "trans_ur": "",
+    "trans_ur": "اور انہیں گناہوں کی شامت سے بچالے اور جسے تونے اس دن گناہوں کی شامت سے بچالیا تو بیشک تو نے اس پر رحم فرمایااور یہی بڑی کامیابی ہے۔",
     "verse_no": "9",
     "surah_name_ar": "غافر",
     "surah_name_en": "Ghaafir"
@@ -582,7 +554,7 @@
     "content_ar": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي ۖ إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ",
     "pron_en": "Rabbi Awzi’-Nee An Ashkura Ni’-Matakal Lateee An-A’mta A’layya Wa A’laa Waalidayya Wa An A’-Mala S’aalih’an Tarz”Aahu Wa As’lih’lee Fee D’urriyyatee Innee Tubtu Ilayka Wa Innee Minal Muslimeen",
     "trans_en": "My Lord! Enable me to give thanks for Your blessing which You bestowed upon me and my parents and to perform righteous deeds which please You, and place goodness for me in my offspring. I have turned to you ˹in repentance˺, and I am from the Muslims.",
-    "trans_ur": "اے میرے رب!مجھے توفیق دے کہ میں تیری نعمت کا شکر ادا کروں جو تو نے مجھ پراور میرے ماں باپ پر فرمائی ہے اور میں وہ نیک کام کروں جس سے تو راضی ہوجائے اور میرے لیے میری اولاد میں نیکی رکھ، میں نے تیری طرف رجوع کیااور میں مسلمانوں میں سے ہوں۔",
+    "trans_ur": "اے میرے رب! مجھے توفیق دے کہ میں تیری نعمت کا شکر ادا کروں جو تو نے مجھ پراور میرے ماں باپ پر فرمائی ہے اور میں وہ نیک کام کروں جس سے تو راضی ہوجائے اور میرے لیے میری اولاد میں نیکی رکھ، میں نے تیری طرف رجوع کیااور میں مسلمانوں میں سے ہوں۔",
     "verse_no": "15",
     "surah_name_ar": "الأحقاف",
     "surah_name_en": "Al-Ahqaaf"
@@ -622,7 +594,7 @@
     "content_ar": "رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
     "pron_en": "Rabbanaa Atmim Lanaa Nooranaa Waghfirlanaa Innaka A’laa Kulli Shay-In Qadeer",
     "trans_en": "O our Lord! Complete our light for us and forgive us. Indeed you have power over everything.",
-    "trans_ur": "اے ہمارے رب!ہمارے لیے ہمارا نور پورا کردے اور ہمیں بخش دے، بیشک تو ہر چیز پرخوب قادرہے۔",
+    "trans_ur": "اے ہمارے رب! ہمارے لیے ہمارا نور پورا کردے اور ہمیں بخش دے، بیشک تو ہر چیز پرخوب قادرہے۔",
     "verse_no": "8",
     "surah_name_ar": "التحريم",
     "surah_name_en": "At-Tahreem"
@@ -642,7 +614,7 @@
     "content_ar": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
     "pron_en": "Rabbighfir Lee Wa Liwaalidayya Wa Liman Dakhala Baytiya Mu’minaw Wa Lil-Moomineena Al Mu’minaat Wa Laa Tazidiz’z’aalimeena Illaa Tabaaraa",
     "trans_en": "O my Lord, forgive me and my parents and the one who enters my abode a believer, and the believing men and the believing women. And do not increase the oppressors except in ruin.",
-    "trans_ur": "اے میرے رب !مجھے اور میرے ماں باپ کو اور میرے گھر میں حالتِ ایمان میں داخل ہونے والے کو اور سب مسلمان مردوں اور سب مسلمان عورتوں کوبخش دے اور کافروں کی تباہی میں اضافہ فرمادے۔",
+    "trans_ur": "اے میرے رب! مجھے اور میرے ماں باپ کو اور میرے گھر میں حالتِ ایمان میں داخل ہونے والے کو اور سب مسلمان مردوں اور سب مسلمان عورتوں کوبخش دے اور کافروں کی تباہی میں اضافہ فرمادے۔",
     "verse_no": "28",
     "surah_name_ar": "نوح",
     "surah_name_en": "Nooh"
