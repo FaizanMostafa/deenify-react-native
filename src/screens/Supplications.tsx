@@ -1,18 +1,41 @@
 import React from 'react';
-import {StyleSheet, Text, View, Image} from 'react-native';
+import {StyleSheet, Text, Image, Pressable} from 'react-native';
 import {FlashList} from '@shopify/flash-list';
 import verseBullet from '../../assets/images/verse.png';
 import {theme} from '../theme';
 import type {Supplication} from '../types/supplication.type';
 import data from '../data/quranic-supplications.json';
+import {scheduleNotification} from '../services/notification.scheduler';
+import {checkForNotificationPermission} from '../services/notification.permission';
 
 const Supplications = () => {
+  const handleScheduleReminder = async () => {
+    try {
+      await checkForNotificationPermission();
+      // Schedule notification for roughly 30 seconds from now
+      const timestamp = Date.now() + 8 * 60 * 60;
+      console.log({current: new Date(Date.now())});
+      console.log({future: new Date(timestamp)});
+      await scheduleNotification(
+        'Reminder',
+        'Your scheduled notification',
+        timestamp,
+      );
+
+      console.log('Notification scheduled');
+    } catch (error) {
+      console.error('Error scheduling notification:', error);
+    }
+  };
+
   return (
     <FlashList
       data={data}
       contentContainerStyle={styles.contentContainer}
       renderItem={({item}: {item: Supplication}) => (
-        <View style={styles.verseContainer}>
+        <Pressable
+          onLongPress={handleScheduleReminder}
+          style={styles.verseContainer}>
           <Text style={styles.verse}>
             <Image
               source={verseBullet}
@@ -26,7 +49,7 @@ const Supplications = () => {
             style={
               styles.reference
             }>{`${item.surah_name_ar} (${item.verse_no})`}</Text>
-        </View>
+        </Pressable>
       )}
       estimatedItemSize={100}
     />
